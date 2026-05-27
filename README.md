@@ -21,6 +21,12 @@ Install all required Python packages using `pip`. Run the following command in y
 pip install -r requirements.txt
 ```
 
+### 3. Playwright
+Install all required Playwright. Run the following command in your terminal:
+```bash
+playwright install --with-deps
+```
+
 ### 3. Docker & Docker Compose (Required for UI Application)
 To run and test the UI application (`assessment_ui.py`), you must have Docker and Docker Compose installed.
 
