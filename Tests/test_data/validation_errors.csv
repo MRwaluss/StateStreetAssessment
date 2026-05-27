@@ -1,0 +1,9 @@
+total_asset, security, target, current, unit_price, expected_output
+0,IBM,20,10,150,total_asset must be greater than 0
+-1000,IBM,20,10,150,total_asset must be greater than 0
+100000,IBM,-5,10,150,target must be in range 0-100
+100000,IBM,105,10,150,target must be in range 0-100
+100000,IBM,20,-1,150,current must be in range 0-100
+100000,IBM,20,101,150,current must be in range 0-100
+100000,IBM,20,10,0,unit_price must be greater than 0
+100000,IBM,20,10,-50,unit_price must be greater than 0

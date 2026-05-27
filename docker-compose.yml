@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  assessment-app:
+    build: .
+    container_name: assessment-app
+    ports:
+      - "8888:80"
+    restart: unless-stopped

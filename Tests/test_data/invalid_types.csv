@@ -1,0 +1,5 @@
+total_asset, security, target, current, unit_price, expected_output
+@@WW,HD,20,20,70,invalid float value
+100000,HD,@@WW,20,70,invalid float value
+100000,HD,20,@@WW,70,invalid float value
+100000,HD,20,20,@@WW,invalid float value

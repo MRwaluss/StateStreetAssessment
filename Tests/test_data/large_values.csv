@@ -1,0 +1,11 @@
+total_asset, security, target, current, unit_price, expected_output
+100000000000,IBM,20,10,150,IBM action: Buy number of shares: 66666666.67
+999999999999,MSFT,20,20,90,MSFT action: Nothing number of shares: 0.0
+500000000000,ORCL,20,30,220,ORCL action: Sell number of shares: 1136363636.36
+750000000000,AAPL,20,10,450,AAPL action: Buy number of shares: 166666666.67
+888888888888,HD,20,20,70,HD action: Nothing number of shares: 0.0
+123456789012,IBM,5,95,150,IBM action: Sell number of shares: 740740740.07
+987654321098,MSFT,90,10,90,MSFT action: Buy number of shares: 9876543210.98
+111111111111,ORCL,10,90,220,ORCL action: Sell number of shares: 404040404.04
+222222222222,AAPL,50,50,450,AAPL action: Nothing number of shares: 0.0
+333333333333,HD,80,20,70,HD action: Buy number of shares: 285714285.71

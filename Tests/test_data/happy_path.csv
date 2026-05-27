@@ -1,0 +1,6 @@
+total_asset, security, target, current, unit_price, expected_output
+100000,IBM,20,10,150,IBM action: Buy number of shares: 66.67
+100000,MSFT,20,20,90,MSFT action: Nothing number of shares: 0.0
+100000,ORCL,20,30,220,ORCL action: Sell number of shares: 45.45
+100000,AAPL,20,20,450,AAPL action: Nothing number of shares: 0.0
+100000,HD,20,20,70,HD action: Nothing number of shares: 0.0
